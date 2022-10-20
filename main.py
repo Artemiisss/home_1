@@ -11,4 +11,6 @@ def get_second_name():
     return second_name
 
 
-
+def get_last_name():
+    last_name = names.get_last_name()
+    return last_name
